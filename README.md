@@ -3,7 +3,7 @@
 ### NAME : Biswajeet Ganthia
 ### INSTITUTION : Silicon University, Bhubaneswar
 ### PLACE OF INTERNSHIP : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
-### GUIDE : Dr. Md Shahid Answar, Ms. Subhashree
+### GUIDE : Dr. Md Shahid Anwar, Ms. Subhashree
 
 ## INTRODUCTION
 #### What is Piezoelectricity?
