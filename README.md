@@ -166,6 +166,7 @@ Purpose:
 ---
 
 # Characterization Techniques Studied
+## 1. Structural Analysis 
 
 | Technique | Purpose |
 |-----------|----------|
@@ -174,4 +175,6 @@ Purpose:
 | FESEM | Surface morphology |
 | d33 Measurement | Piezoelectric strength |
 | P-E Loop | Ferroelectric behavior |
-| Dielectric Analysis | Polarization capability |
+
+## 2. Electrical Analysis
+
