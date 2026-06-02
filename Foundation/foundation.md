@@ -21,7 +21,7 @@
 ### 2. Dipole
 - Positive and negative charges are separated by a small distance.
 - Dipole Moment: The strength of the dipole is measured by
-  - p = q x d
+  - Pd = q x d
     - where,
       - q = charge
       - d = separation distance
@@ -32,4 +32,12 @@
       - Example : Quartz
 - At MPB, dipoles switch their direction easily.
     - High Polarization
-    - High piezoelectric coefficient (d33) 
+    - High piezoelectric coefficient (d33)
+ 
+### 3. Polarization
+- Separation or alignment of positive charges or negative charges inside a material.
+- Polarization can be measured as
+  - Po = q/A
+    - where,
+      - q = charge
+      - A = area
