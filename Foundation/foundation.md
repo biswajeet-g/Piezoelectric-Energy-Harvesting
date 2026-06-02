@@ -25,3 +25,11 @@
     - where,
       - q = charge
       - d = separation distance
+
+### # Morphotropic Phase Constant
+- A composition region where two different crystal phases coexist simultaneously.
+  - Crystal: A system of atoms or molecules arranged in a very orderly manner, based on endless repetition.
+      - Example : Quartz
+- At MPB, dipoles switch their direction easily.
+    - High Polarization
+    - High piezoelectric coefficient (d33) 
