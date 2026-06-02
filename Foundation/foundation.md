@@ -41,3 +41,20 @@
     - where,
       - q = charge
       - A = area
+
+### 4. Dielectric Materials
+- An electrical insulator that can become polarized when an electric field is applied.
+- A good dielectric can
+  - Store more energy
+  - Produce stronger polarization
+  - Increases piezoelectric performance
+
+  ### Dielectric Measurement
+  - How a material respond to an electric field.
+    #### Dielectric Constant : εr
+  ### Dielectric Loss
+  - How much electrical energy is wasted as heat.
+    - C=εA/d
+    - C=εrεoA/d
+    - or
+    - εr=Cd/εoA
