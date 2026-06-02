@@ -58,3 +58,7 @@
     - C=εrεoA/d
     - or
     - εr=Cd/εoA
+
+### 5. Ferroelectricty
+- The ability of the material to possess sponteneous polarization that can be reverse by the external electric field.
+- All ferroelectric materials are piezoelectric but not the reverse.
