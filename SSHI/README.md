@@ -40,7 +40,8 @@
 - Continuous electrochemical reaction inside, leads to the shorter life span of convectional batteries.
 - ###### New Bateru -> Reduced capacity -> Higher Internal resistance -> Shorter Runtime -> End of Life of the battery
 
-### Energu Harvesting and Energy Conversion
-| Energu Harvesting | Energy Conversion |
+### Energy Harvesting and Energy Conversion
+| Energy Harvesting | Energy Conversion |
 | ------------------| ------------------|
 | Process of capturing ambient energy from the environment, converting it into electrical energy |  It refers specifically to the physical principle responsible for transforming one form of energy into another |
+| Focuses on overall system efficiency | Focuses on conversion efficiency |
