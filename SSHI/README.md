@@ -3,7 +3,7 @@
 ## Piezoelectricity
 - The apperance of an electrical potential across the sides of a crystal when you subject it to the mechanical stress.
 ## Electromagnetic 
-- 
+- When an electric field changes, it creates a magnetic field, and when a magnetic field changes, it creates an electric field.
 
 | Piezoelectric | Electromagnetic |
 |---------------|-----------------|
@@ -11,3 +11,13 @@
 | Low Current | High Current |
 | Capacitive | Inductive |
 
+## Schematic Diagram 
+<img width="363" height="174" alt="sshi 1" src="https://github.com/user-attachments/assets/81b4be89-e7bc-47e0-96d5-d9d30ea01b17" />
+
+### Faraday's Law of Induction
+- Faraday's law of induction states that a changing magnetic field induces an electromotive force (emf) in a circuit, which can generate an electric current.
+    - E = -N.dΦ/dt
+    - where,
+      - E = induced emf
+      - N = No. of turns of a coil
+      - dΦ/dt = rate of change of magentic flux. 
