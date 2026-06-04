@@ -176,5 +176,5 @@ Purpose:
 | d33 Measurement | Piezoelectric strength |
 | P-E Loop | Ferroelectric behavior |
 
-## 2. Electrical Analysis
+
 
