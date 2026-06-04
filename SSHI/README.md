@@ -42,4 +42,5 @@
 
 ### Energu Harvesting and Energy Conversion
 | Energu Harvesting | Energy Conversion |
+| ------------------| ------------------|
 | Process of capturing ambient energy from the environment, converting it into electrical energy |  It refers specifically to the physical principle responsible for transforming one form of energy into another |
