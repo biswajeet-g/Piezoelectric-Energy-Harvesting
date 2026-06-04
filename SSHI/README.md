@@ -22,6 +22,7 @@
       - E = induced emf
       - N = No. of turns of a coil
       - dΦ/dt = rate of change of magentic flux.
+- The amount of generated electricity depends upon the strength of the magnetic field, the velocity of the relative motion and the number of turns of the coil.
      
 ## Components of Energy Harvester (Standard)
 1. Piezoelectric Material
@@ -38,3 +39,7 @@
 #### Battery ageing phenomenon 
 - Continuous electrochemical reaction inside, leads to the shorter life span of convectional batteries.
 - ###### New Bateru -> Reduced capacity -> Higher Internal resistance -> Shorter Runtime -> End of Life of the battery
+
+### Energu Harvesting and Energy Conversion
+| Energu Harvesting | Energy Conversion |
+| Process of capturing ambient energy from the environment, converting it into electrical energy |  It refers specifically to the physical principle responsible for transforming one form of energy into another |
