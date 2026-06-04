@@ -13,6 +13,7 @@
 
 ## Schematic Diagram 
 <img width="363" height="174" alt="sshi 1" src="https://github.com/user-attachments/assets/81b4be89-e7bc-47e0-96d5-d9d30ea01b17" />
+Fig. 1 Standard Energy Harvester Circuit Diagram
 
 ### Faraday's Law of Induction
 - Faraday's law of induction states that a changing magnetic field induces an electromotive force (emf) in a circuit, which can generate an electric current.
@@ -20,4 +21,16 @@
     - where,
       - E = induced emf
       - N = No. of turns of a coil
-      - dΦ/dt = rate of change of magentic flux. 
+      - dΦ/dt = rate of change of magentic flux.
+     
+## Components of Energy Harvester (Standard)
+1. Piezoelectric Material
+2. Brigde Rectifier
+3. Smoothing Capacitor
+4. Load Resistor
+
+### Steps involved in standard energy harvester
+- I. Piezoelectric generates AC Voltage.
+- II. Bridge Rectifier converts AC to DC.
+- III. Capacitor smooths DC.
+- IV. Load consumes power. 
