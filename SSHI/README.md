@@ -12,8 +12,8 @@
 | Capacitive | Inductive |
 
 ## Schematic Diagram 
-<img width="363" height="174" alt="sshi 1" src="https://github.com/user-attachments/assets/81b4be89-e7bc-47e0-96d5-d9d30ea01b17" />
 - Fig. 1 Standard Energy Harvester Circuit Diagram
+<img width="363" height="174" alt="sshi 1" src="https://github.com/user-attachments/assets/81b4be89-e7bc-47e0-96d5-d9d30ea01b17" />
 
 ### Faraday's Law of Induction
 - Faraday's law of induction states that a changing magnetic field induces an electromotive force (emf) in a circuit, which can generate an electric current.
@@ -37,5 +37,4 @@
 
 #### Battery ageing phenomenon 
 - Continuous electrochemical reaction inside, leads to the shorter life span of convectional batteries.
-
 - ###### New Bateru -> Reduced capacity -> Higher Internal resistance -> Shorter Runtime -> End of Life of the battery
