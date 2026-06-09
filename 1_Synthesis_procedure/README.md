@@ -26,11 +26,11 @@
 
 ## Some process related portfolios
 1. Addition of Mxene with DMF
-<img width="964" height="1280" alt="photo_2026-06-09_15-05-44" src="https://github.com/user-attachments/assets/07f8bfeb-373a-460b-b6b8-c8c817a3df13" />
+<img width="482" height="640" alt="photo_2026-06-09_15-05-44" src="https://github.com/user-attachments/assets/07f8bfeb-373a-460b-b6b8-c8c817a3df13" />
 
 2. Sonication
-<img width="964" height="1280" alt="photo_2026-06-09_15-05-47" src="https://github.com/user-attachments/assets/121e19b0-26c3-42b8-9d80-989ca464141f" />
+<img width="482" height="640" alt="photo_2026-06-09_15-05-47" src="https://github.com/user-attachments/assets/121e19b0-26c3-42b8-9d80-989ca464141f" />
 
 3. Addition of BCZT-Mn
-<img width="964" height="1280" alt="photo_2026-06-09_15-05-39" src="https://github.com/user-attachments/assets/702607ff-7299-45e0-aaf7-dc0f7f395401" />
+<img width="482" height="640" alt="photo_2026-06-09_15-05-39" src="https://github.com/user-attachments/assets/702607ff-7299-45e0-aaf7-dc0f7f395401" />
 
