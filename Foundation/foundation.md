@@ -71,5 +71,13 @@
 - This helps to produce a polymer matrix.
 
 ### Magnetic Stirring 
-- This process helps to produce homogeneous distribution of all constituent 
+- This process helps to produce homogeneous distribution of all constituent in the matrix.
+
+### Addition of BCZT-Mn
+- BCZT-Mn introduces ferroelectric dipoles which increases polarisation, dielectric constant and piezoelectric output.
+
+### Addition of Mxene
+- Mxene creates large interfacial area which improves charge transport and dielectric properties.
+
+### Sonicatio
 
