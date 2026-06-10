@@ -21,7 +21,7 @@
 #### Who discovered piezoelectricity?
 - The piezoelectric effect was discovered in 1880 by two French physicists, brothers Pierre and Paul-Jacques Curie, in crystals of quartz, tourmaline, and Rochelle salt. They took the name from the Greek work piezein, which means "to press."
 
-# PVDF-HFP / BCZT / MXene Flexible Piezoelectric Nanocomposite
+# PVDF-HFP / BCZT-Mn / MXene Flexible Piezoelectric Nanocomposite
 
 ## Overview
 
@@ -29,9 +29,12 @@ This repository documents my learning and research journey on flexible piezoelec
 
 The project focuses on understanding the fabrication, working mechanism, characterization, and electronics integration of:
 
-- PVDF-HFP
-- BCZT
-- MXene
+|Components||
+|----------|----|
+|PVDF-HFP| polyvinyledene fluoride-co-hexafluropropylene|
+|BCZT-Mn| Ba-Ca-Zr-Ti with Manganese Dopant|
+|MXene||
+|DMF| N,N-dimethylformamide|
 
 for developing flexible piezoelectric devices.
 
