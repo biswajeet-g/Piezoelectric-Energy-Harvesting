@@ -62,3 +62,14 @@
 ### 5. Ferroelectricty
 - The ability of the material to possess sponteneous polarization that can be reverse by the external electric field.
 - All ferroelectric materials are piezoelectric but not the reverse.
+
+## Significance of different processes involved in fabrication
+### Synthesis of BCZT-Mn Powder
+- This process is cruicial to provide high ferroelectric phase and high d33.
+
+### PVDF Dissolution in DMF
+- This helps to produce a polymer matrix.
+
+### Magnetic Stirring 
+- This process helps to produce homogeneous distribution of all constituent 
+
