@@ -64,20 +64,24 @@
 - All ferroelectric materials are piezoelectric but not the reverse.
 
 ## Significance of different processes involved in fabrication
-### Synthesis of BCZT-Mn Powder
+### a. Synthesis of BCZT-Mn Powder
 - This process is cruicial to provide high ferroelectric phase and high d33.
 
-### PVDF Dissolution in DMF
+### b. PVDF Dissolution in DMF
 - This helps to produce a polymer matrix.
 
-### Magnetic Stirring 
+### c. Magnetic Stirring 
 - This process helps to produce homogeneous distribution of all constituent in the matrix.
 
-### Addition of BCZT-Mn
+### d. Addition of BCZT-Mn
 - BCZT-Mn introduces ferroelectric dipoles which increases polarisation, dielectric constant and piezoelectric output.
 
-### Addition of Mxene
+### e. Addition of Mxene
 - Mxene creates large interfacial area which improves charge transport and dielectric properties.
 
-### Sonicatio
+### f. Sonication
+- Without this, a large cluster formed which causes poor dispersion, lower polarization and reduced d33.
+
+### g. Tape Casting 
+- the solution is added over the doctor blade, which controls film thickness, surface smoothness and uniformity. 
 
