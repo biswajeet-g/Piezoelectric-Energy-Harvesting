@@ -1,4 +1,4 @@
-# Piezoelectric-Energy-Harvesting
+# Piezoelectric Energy Harvesting behaviour of PVDF Polymer incorporation with BCZT Ceramic Filler
 
 ### NAME : Biswajeet Ganthia
 ### INSTITUTION : Silicon University, Bhubaneswar
