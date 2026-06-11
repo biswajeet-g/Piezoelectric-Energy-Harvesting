@@ -14,3 +14,8 @@
    - The dielectric constant increases with the number of BCZT particles because BCZT is a high-permittivity ferroelectric ceramic containing a large number of polarizable dipoles and ferroelectric domains.
    - Increasing BCZT concentration introduces more polarization centers and more PVDF-HFP/BCZT interfaces.
    - However, beyond an optimum concentration, particle agglomeration and reduced polymer mobility.
+  
+4. Describe the relation between dielectric loss and frequency with reference to the rise in ceramic BCZT particles.
+   - As BCZT concentration increases, dielectric loss shows a slight increase because additional ferroelectric domains, and interfacial polarization mechanisms are introduced.
+   - Dielectric loss generally decreases with increasing frequency because the dipoles, ferroelectric domains, and interfacial charges cannot respond quickly enough to the rapidly alternating electric field.
+   - Although higher BCZT loading provides more polarization centers, the frequency-dependent relaxation of these mechanisms causes dielectric loss to decrease at higher frequencies.
