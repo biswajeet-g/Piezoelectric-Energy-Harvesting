@@ -1,9 +1,9 @@
 # Piezoelectric Energy Harvesting behaviour of PVDF Polymer incorporation with BCZT Ceramic Filler
 
-### NAME : Biswajeet Ganthia
-### INSTITUTION : Silicon University, Bhubaneswar
-### PLACE OF INTERNSHIP : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
-### GUIDE : Dr. Md Shahid Anwar, Dr. Subhashree
+- ##### NAME : Biswajeet Ganthia
+- ##### INSTITUTION : Silicon University, Bhubaneswar
+- ##### PLACE OF INTERNSHIP : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
+- ##### GUIDE : Dr. Md Shahid Anwar, Dr. Subhashree
 
 ## INTRODUCTION
 #### What is Piezoelectricity?
