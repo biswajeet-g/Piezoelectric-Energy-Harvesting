@@ -8,6 +8,8 @@
 | Piezoelectric sheet | To maintain the uniformity of particles |
 | Hot Press Machine | Device used for pressing the composite |
 
+---
+
 ## Steps involved
 
  1. The nanocomposite thin sheet was cut into square pieces with specific dimensions.
@@ -19,6 +21,8 @@
  7. The composite plates were again kept in the hot press.The pressure was applied and kept for 20 mins until it reached constant 150*C.
  8. then after releasing the pressure, the composite plates were kept on the hot press as it was for 20 hours (approx.), until it was cooled doen to room temperature.
  10. Finally, we get a compressed thin composite sheets with plastic sheets (which were removed in the later stage).
+
+---
 
 ## Some Process related portfolio
 - Hot press machine
