@@ -6,16 +6,16 @@
    - The current produced is less due to the thin thickness of the composite and small flim size.
    - 3.3V is the operating voltage for most of the microcontrollers and other electronic devices.
 
-2. Why does electroactive phase of PVDF break down when BCZT concentration exceeds 40%?
+###### 2. Why does electroactive phase of PVDF break down when BCZT concentration exceeds 40%?
    - BCZT act as the energy generating center of the composite. It helps PVDF chains to align which leads increase in Electroactive phase, Polarization and d33.
    - When the conc. of BCZT increases beyond 40%, the no. of polymer chains decreases as compared to BCZT particles. The BCZT particles begin to cluster and lead to agglomeration
 
-3. What is the relation of dielectric permittivity, dielectric constant and no. of ceramic BCZT Particles? Why does the dielectric constant increase with the rise in the no. of BCZT particles?
+###### 3. What is the relation of dielectric permittivity, dielectric constant and no. of ceramic BCZT Particles? Why does the dielectric constant increase with the rise in the no. of BCZT particles?
    - The dielectric constant increases with the number of BCZT particles because BCZT is a high-permittivity ferroelectric ceramic containing a large number of polarizable dipoles and ferroelectric domains.
    - Increasing BCZT concentration introduces more polarization centers and more PVDF-HFP/BCZT interfaces.
    - However, beyond an optimum concentration, particle agglomeration and reduced polymer mobility.
   
-4. Describe the relation between dielectric loss and frequency with reference to the rise in ceramic BCZT particles.
+###### 4. Describe the relation between dielectric loss and frequency with reference to the rise in ceramic BCZT particles.
    - As BCZT concentration increases, dielectric loss shows a slight increase because additional ferroelectric domains, and interfacial polarization mechanisms are introduced.
    - Dielectric loss generally decreases with increasing frequency because the dipoles, ferroelectric domains, and interfacial charges cannot respond quickly enough to the rapidly alternating electric field.
    - Although higher BCZT loading provides more polarization centers, the frequency-dependent relaxation of these mechanisms causes dielectric loss to decrease at higher frequencies.
