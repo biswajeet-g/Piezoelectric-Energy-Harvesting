@@ -1,7 +1,7 @@
 ## Some of the observations 
 ### 'Modulating Energy Harvesting Behaviour of PVDF Piezo-Polymer by Incorporation of BCZT Ceramic Filler'
 
-####### 1. Why is it mentioned about the output voltage of 3.3V only and power output of 2.13uW by the composite film?
+###### 1. Why is it mentioned about the output voltage of 3.3V only and power output of 2.13uW by the composite film?
    - A piezoelectric film typically produces high voltage and low current. therefore, Power remains in uW range.
    - The current produced is less due to the thin thickness of the composite and small flim size.
    - 3.3V is the operating voltage for most of the microcontrollers and other electronic devices.
