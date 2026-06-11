@@ -9,6 +9,8 @@
 | Mxene | Conductive 2D filler | 0.5%, 1%, 1.5%, 2% of PVDF-HFP + BCZT-Mn Mixture |
 | DMF | Solvent for dissolving PVDF | 20ml |
 
+---
+
 
 ## Steps Involved
 - DMF was added of 20ml into a 50ml beaker.
@@ -23,6 +25,8 @@
 - After heating in the oven, the composite was again stirred for an hour.
 - Then the composite was spreaded over a glass sheet with a glass rod, then heated it in oven for 6 hrs.
 - Finally, it produces a nanocomposite thin sheet.
+
+---
 
 ## Some process related portfolios
 1. Addition of Mxene with DMF
