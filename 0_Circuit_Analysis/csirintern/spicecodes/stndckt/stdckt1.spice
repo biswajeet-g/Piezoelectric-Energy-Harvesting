@@ -1,0 +1,73 @@
+*-------------------------------------
+* Piezoelectric Energy Havesting circuit
+* QP20W Piezoelectric Transducer Model
+*-------------------------------------
+
+************************
+* piezoelectric Model
+************************
+
+Vpiezo 1 0 SIN(0 10 40)
+*Ieq 1 0 SIN(0 49.45u 40)
+Cp 1 0 171.4n
+Rp 1 0 1.55Meg
+
+*************************
+* Bridge Rectfier
+*************************
+
+D1 1 2 dmode
+D2 0 2 dmode
+D3 3 1 dmode
+D4 3 0 dmode
+
+.model dmode D(
++ Is=1e-9
++ Rs=0.2
++ N=1.05
+)
+
+**************************
+*Storage capacitor
+**************************
+
+*Cload 2 3 100u Ic=0
+Cload 2 3 47u Ic=0
+
+**************************
+*Load resistor 
+**************************
+
+*Rl 2 3 100k
+rl 2 3 22k
+
+**************************
+*Transient Analysis
+**************************
+
+*.tran 0.1m 5s
+.tran 10u 200m
+.control
+run
+
+*piezoelectric output
+*plot v(1) xlimit 0 200m
+plot (v(1))
+
+*harvested DC voltage
+plot v(2,3)
+*plot abs(v(2,3))
+
+*generated piezo current
+*display plot i(Ieq)
+
+plot -i(Vpiezo)
+
+*Harvested output power 
+let pload = v(2,3)^2/22000
+plot pload 
+
+.endc
+.end
+
+
