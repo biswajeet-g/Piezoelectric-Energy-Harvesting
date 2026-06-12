@@ -27,3 +27,32 @@
   #### Steps for setting up files
     - To open excelsheet for Pe Loop readings:
       - Open -> Computer -> 2.5%(e.g.) -> 450 KV
+    - A dialog box appreared 
+      - Chose the file type that best describes
+        - Delimited 
+      - Delimiters
+        - Choose Space
+      - Column data format
+        - Choose General
+      - Click "Finish"
+
+  #### Steps for setting up Origin 2021
+    - New -> Workbook
+    - Grid like structure appeared
+      - Add Columns to the right (for updating more data).
+    - Copied the PE Data from excelsheet and pasted it to the Origin Workbook.
+    - Initially, 'P' hept the Y-axis and 'E' kept the X-axis.
+      - The axes were interchanged 
+    - Then, the two columns were selected and the graph was plotted. (Select 'Line')
+    - After the graph being plotted,
+      - Select "Analysis" -> "Mathematics" -> "Integrate" -> "Open Dialog"
+    - There, area under the curve could be measured. 
+
+## Some process related portfolio
+
+<img width="683" height="384" alt="Screenshot (1121)" src="https://github.com/user-attachments/assets/e86a4357-9c97-4bc6-8042-6a8ebd94398c" />
+
+        
+<img width="683" height="384" alt="Screenshot (1122)" src="https://github.com/user-attachments/assets/bdea4d71-b85c-4c6c-aadf-70d4506cace7" />
+
+<img width="683" height="384" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/66b821ab-030a-4da7-8a43-bafceae66dea" />
