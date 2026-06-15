@@ -87,6 +87,8 @@
   - The unwanted current that flows through a dielectric or insulating material when an electric field is applied.
   - The initial decline in the leakage current with the progressive addition of the BCZT ceramic filler within PVDF matrix can be ascribed to the dominant insulating properties of the ceramic phase. 
 
+--- 
+
 ## Significance of different processes involved in fabrication
 ### a. Synthesis of BCZT-Mn Powder
 - This process is cruicial to provide high ferroelectric phase and high d33.
@@ -107,7 +109,9 @@
 - Without this, a large cluster formed which causes poor dispersion, lower polarization and reduced d33.
 
 ### g. Tape Casting 
-- the solution is added over the doctor blade, which controls film thickness, surface smoothness and uniformity. 
+- the solution is added over the doctor blade, which controls film thickness, surface smoothness and uniformity.
+
+---
 
 ## Role of BCZT Ceramic in PVDF Matrix
 - It improves surface charge polarization.
