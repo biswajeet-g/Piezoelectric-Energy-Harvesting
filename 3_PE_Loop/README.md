@@ -41,7 +41,7 @@
     - Grid like structure appeared
       - Add Columns to the right (for updating more data).
     - Copied the PE Data from excelsheet and pasted it to the Origin Workbook.
-    - Initially, 'P' hept the Y-axis and 'E' kept the X-axis.
+    - Initially, 'P' kept the Y-axis and 'E' kept the X-axis.
       - The axes were interchanged 
     - Then, the two columns were selected and the graph was plotted. (Select 'Line')
     - After the graph being plotted,
