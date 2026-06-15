@@ -109,3 +109,7 @@
 ### g. Tape Casting 
 - the solution is added over the doctor blade, which controls film thickness, surface smoothness and uniformity. 
 
+## Role of BCZT Ceramic in PVDF Matrix
+- It improves surface charge polarization.
+- It leads to the consequent enhancement of dielectric polarization behaviour.
+- Reduction in leakage current.
