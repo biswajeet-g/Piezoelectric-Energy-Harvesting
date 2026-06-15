@@ -62,7 +62,7 @@
     - Presence of piezoelectric cermaic BCZT particles.
     - Interfacial interaction between PVDF and BCZT parcticles.
 
-- a sudden increase in dielectric constants indicates a significant increase in interfacial polarization in the compostie.
+- A sudden increase in dielectric constants indicates a significant increase in interfacial polarization in the compostie.
   ##### Interfacial Polarization (Maxwell–Wagner–Sillars (MWS) Polarization)
   - The accumulation of charges at the interface of two materials having different electrical properties.
   ### Dielectric Measurement
@@ -82,6 +82,10 @@
 ### 5. Ferroelectricty
 - The ability of the material to possess sponteneous polarization that can be reverse by the external electric field.
 - All ferroelectric materials are piezoelectric but not the reverse.
+
+  #### Leakage Current
+  - The unwanted current that flows through a dielectric or insulating material when an electric field is applied.
+  - The initial decline in the leakage current with the progressive addition of the BCZT ceramic filler within PVDF matrix can be ascribed to the dominant insulating properties of the ceramic phase. 
 
 ## Significance of different processes involved in fabrication
 ### a. Synthesis of BCZT-Mn Powder
