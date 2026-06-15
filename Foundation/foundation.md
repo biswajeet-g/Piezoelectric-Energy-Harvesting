@@ -41,6 +41,13 @@
     - where,
       - q = charge
       - A = area
+- To understand the ferroelectric study, there are two types of polarization.
+    - ##### Saturation Polarization
+        - Maximum Polarization obtained under a strong electric field.
+    - ##### Remanent Polarization
+        - Polarization remaining after removing the electric field.
+    ##### Coercive Field
+      - The electric field required to reduce polarization to zero. 
 
 ### 4. Dielectric Materials
 - An electrical insulator that can become polarized when an electric field is applied.
