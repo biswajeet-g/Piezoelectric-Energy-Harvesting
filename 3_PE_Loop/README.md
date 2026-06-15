@@ -51,10 +51,11 @@
 ## Some process related portfolio
 
 - ##### PE Loop in the first quadrant
-<img width="683" height="384" alt="Screenshot (1121)" src="https://github.com/user-attachments/assets/e86a4357-9c97-4bc6-8042-6a8ebd94398c" />
+<img width="683" height="384" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/5404c6c8-80ef-48d7-ad42-51ab2d43632a" />
 
 - ##### Charging Condition         
-<img width="683" height="384" alt="Screenshot (1122)" src="https://github.com/user-attachments/assets/bdea4d71-b85c-4c6c-aadf-70d4506cace7" />
+<img width="683" height="384" alt="Screenshot (1141)" src="https://github.com/user-attachments/assets/94a607ef-782f-475f-976c-462167b4b918" />
+
 
 - ##### Discharging Condition
-<img width="683" height="384" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/66b821ab-030a-4da7-8a43-bafceae66dea" />
+<img width="683" height="384" alt="Screenshot (1140)" src="https://github.com/user-attachments/assets/16b371dd-f18e-4162-b8b4-faccbe568c80" />
