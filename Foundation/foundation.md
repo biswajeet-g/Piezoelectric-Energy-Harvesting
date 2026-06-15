@@ -67,8 +67,10 @@
     - C=εrεoA/d
     - or
     - εr=Cd/εoA
-
-  
+  ##### Factors affecting Dieletric loss
+    - Interfacial polarization
+    - Gamma Relaxation
+    - Conduction losses
 
 ### 5. Ferroelectricty
 - The ability of the material to possess sponteneous polarization that can be reverse by the external electric field.
