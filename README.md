@@ -186,7 +186,8 @@ Purpose:
 
  - [**ELSEVIER**] Mickaël Lallart, Giulia Lombardi [Synchronized Switch Harvesting on ElectroMagnetic System.pdf](https://github.com/user-attachments/files/28987174/Synchronized.Switch.Harvesting.on.ElectroMagnetic.System.pdf)
 
- - [**micromachines**] Yi Yang, Zhiyuan Chen, Qin Kuai, Junrui Liang, Jingjing Liu and Xiaoyang Zeng [Circuit Techniques for High Efficiency Piezoelectric
+ - [**micromachines**] Yi Yang, Zhiyuan Chen, Qin Kuai, Junrui Liang, Jingjing Liu and Xiaoyang Zeng
+[Circuit Techniques for High Efficiency Piezoelectric
 Energy Harvesting.pdf](https://github.com/user-attachments/files/28987310/micromachines-13-01044.pdf)
 
 
