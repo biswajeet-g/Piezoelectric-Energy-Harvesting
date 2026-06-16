@@ -8,7 +8,8 @@
 ## INTRODUCTION
 #### What is Piezoelectricity?
 - The appearance of an electrical potential across the sides of a crystal when you subject it to the mechanical stress.
-- 
+
+
 #### Crystal :
 - Atom or molecules arranged in a very orderly manner based on endless repetition.
 - Normally, piezoelectric crystals are electrically neutral: the atoms inside them may not be symmetrically arranged, but their electrical charges are perfectly balanced.
