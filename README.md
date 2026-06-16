@@ -179,5 +179,6 @@ Purpose:
 | d33 Measurement | Piezoelectric strength |
 | P-E Loop | Ferroelectric behavior |
 
-
-
+# References
+- ##### Modulating Energy Harvesting Behavior of PVDF Piezo-Polymer by Incorporation of BCZT Ceramic Filler
+[Energy Harvesting Behavior of PVDF Piezo-Polymer.pdf](https://github.com/user-attachments/files/28986653/Energy.Harvesting.Behavior.of.PVDF.Piezo-Polymer.pdf)
