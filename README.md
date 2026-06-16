@@ -180,5 +180,13 @@ Purpose:
 | P-E Loop | Ferroelectric behavior |
 
 # References
-- ##### Modulating Energy Harvesting Behavior of PVDF Piezo-Polymer by Incorporation of BCZT Ceramic Filler
-[Energy Harvesting Behavior of PVDF Piezo-Polymer.pdf](https://github.com/user-attachments/files/28986653/Energy.Harvesting.Behavior.of.PVDF.Piezo-Polymer.pdf)
+ - [**ACS Applied Electronics Material**] Bibekananda Nayak, Sharmistha Anwar, Abhishek Kumar, and Shahid Anwar [Modulating Energy Harvesting Behavior of PVDF Piezo-Polymer by Incorporation of BCZT Ceramic Filler.pdf](https://github.com/user-attachments/files/28986653/Energy.Harvesting.Behavior.of.PVDF.Piezo-Polymer.pdf)
+   
+ - [**sensors**] Corina Covaci and Aurel Gontean [Piezoelectric Energy Harvesting Solutions: A Review.pdf](https://github.com/user-attachments/files/28987093/sensors-20-03512-with-cover.pdf)
+
+ - [**ELSEVIER**] Mickaël Lallart, Giulia Lombardi [Synchronized Switch Harvesting on ElectroMagnetic System.pdf](https://github.com/user-attachments/files/28987174/Synchronized.Switch.Harvesting.on.ElectroMagnetic.System.pdf)
+
+ - [**micromachines**] Yi Yang, Zhiyuan Chen, Qin Kuai, Junrui Liang, Jingjing Liu and Xiaoyang Zeng [Circuit Techniques for High Efficiency Piezoelectric
+Energy Harvesting.pdf](https://github.com/user-attachments/files/28987310/micromachines-13-01044.pdf)
+
+
