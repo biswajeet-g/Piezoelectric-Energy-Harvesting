@@ -50,6 +50,10 @@
 
 ## Some process related portfolio
 
+- ##### Data Collected from the experiment
+<img width="683" height="384" alt="Screenshot (1151)" src="https://github.com/user-attachments/assets/e4d8f835-ebb6-49bd-8efe-bec32156b188" />
+
+
 - ##### PE Loop in the first quadrant
 <img width="683" height="384" alt="Screenshot (1142)" src="https://github.com/user-attachments/assets/5404c6c8-80ef-48d7-ad42-51ab2d43632a" />
 
