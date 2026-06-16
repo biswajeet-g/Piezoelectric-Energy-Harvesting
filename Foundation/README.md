@@ -85,7 +85,11 @@
 
   #### Leakage Current
   - The unwanted current that flows through a dielectric or insulating material when an electric field is applied.
-  - The initial decline in the leakage current with the progressive addition of the BCZT ceramic filler within PVDF matrix can be ascribed to the dominant insulating properties of the ceramic phase. 
+  - The initial decline in the leakage current with the progressive addition of the BCZT ceramic filler within PVDF matrix can be ascribed to the dominant insulating properties of the ceramic phase.
+
+### 6. Figure of Merit
+- The FOM for piezoelectric energy harvesting represents the effeciveness of a material in converting mechanical strain into electrical energy.
+    - FOM = [(d33)^2]/εo.εr
 
 --- 
 
