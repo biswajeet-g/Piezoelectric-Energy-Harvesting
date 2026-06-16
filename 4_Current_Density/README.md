@@ -49,7 +49,7 @@
 ## Some process related portfolio
 
 - ##### Data collected from the experiment
-<img width="1366" height="768" alt="Screenshot (1150)" src="https://github.com/user-attachments/assets/465b57b6-d0d1-424f-af05-a38f0f0718a9" />
+<img width="683" height="384" alt="Screenshot (1150)" src="https://github.com/user-attachments/assets/465b57b6-d0d1-424f-af05-a38f0f0718a9" />
 
 - ##### Current Density graph indicating both quadrants
-<img width="1366" height="768" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/3b5ffeaf-cc45-46d4-850f-c341a0e80db5" />
+<img width="683" height="384" alt="Screenshot (1149)" src="https://github.com/user-attachments/assets/3b5ffeaf-cc45-46d4-850f-c341a0e80db5" />
