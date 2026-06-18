@@ -25,6 +25,8 @@ When the piezoelectric structure bends due to external vibration, internal dipol
 
 ## 3. Electromechanical Equivalent Circuit
 
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/5e7af1f2-3143-43a9-8fc0-34d548cd1f26" />
+
 Since SPICE simulators are designed for electrical circuits, mechanical components must be represented by equivalent electrical components using the force-voltage analogy.
 
 ### Mechanical-to-Electrical Correspondence
