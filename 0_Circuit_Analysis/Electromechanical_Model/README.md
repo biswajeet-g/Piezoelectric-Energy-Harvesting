@@ -43,8 +43,9 @@ Since SPICE simulators are designed for electrical circuits, mechanical componen
 This analogy allows the mechanical differential equation
 
 ###### M(d²x/dt²) + D(dx/dt) + Kx = F(t)
-
 to be solved using standard electrical circuit analysis techniques.
+##### L(d²q/dt²) + R(dq/dt) + q/C = V(t)
+This is Force-Voltage Analogy.
 
 ---
 
