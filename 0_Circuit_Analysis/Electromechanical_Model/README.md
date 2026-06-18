@@ -96,7 +96,7 @@ Represents dielectric leakage and self-discharge of the piezoelectric element.
 
 A sinusoidal force source is applied:
 
-F(t) = sin(2πft)
+###### F(t) = sin(2πft)
 
 This force excites the mass-spring-damper system.
 
@@ -118,7 +118,7 @@ Near resonance, vibration amplitude increases significantly, resulting in higher
 - The controlled current source represents electromechanical coupling.
 Mechanical vibration velocity generates electrical current according to:
 
-##### Ipiezo = Th × I(Vsen)
+###### Ipiezo = Th × I(Vsen)
 
 This converts mechanical energy into electrical energy.
 
