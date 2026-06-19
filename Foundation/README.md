@@ -97,7 +97,7 @@
 
 ### 6. Figure of Merit
 - The FOM for piezoelectric energy harvesting represents the effeciveness of a material in converting mechanical strain into electrical energy.
-    - FOM = [(d33)^2]/εo.εr
+    - FOM = d33²/εo.εr
 
 --- 
 
