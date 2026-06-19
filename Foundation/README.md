@@ -47,7 +47,15 @@
     - ##### Remanent Polarization
         - Polarization remaining after removing the electric field.
     ##### Coercive Field
-      - The electric field required to reduce polarization to zero. 
+      - The electric field required to reduce polarization to zero.
+
+- On the basis of alignment of dipoles:
+    - ##### 1. Dipolar Polarization
+      - Permanent dipole exists due to electronegativity of Fluorine (F-).
+    - ##### 2. Distortional Polarization
+      - It occurs inside atoms and crystal structures.
+    - ##### 3. Interfacial Polarization
+      - Accumulation of charges at the interface of different materials.  
 
 ### 4. Dielectric Materials
 - An electrical insulator that can become polarized when an electric field is applied.
