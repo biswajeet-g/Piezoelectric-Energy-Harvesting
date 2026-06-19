@@ -1,0 +1,81 @@
+* Piezoelectric Energy Harvester
+
+*Mass (in kg)
+.param M=0.01
+*Camping (mech energy loss) 
+.param D=1
+*Spring Constant (in N/m)
+.param K=1000
+*Piezoelectric Coupling Coefficient 
+.param Th=0.05
+*Piezoelectric Capacitor
+.param Cp=100n
+*Leakage Resistance
+.param Rp=10Meg
+
+**********************************
+*Mechanical side
+**********************************
+
+Vforce 1 0 SIN(0 1 100)
+Lmass 1 2 {M}
+Rdamp 2 3 {D}
+Cspring 3 0 {1/K}
+
+***********************************
+* Piezo Coupling
+***********************************
+
+* Sensor Voltage
+Vsen 2 3 0
+* Current Controlled Current Source (CCCS)
+Fpiezo 4 0 Vsen {Th}
+
+
+***********************************
+* electrical side
+***********************************
+
+Cpz 4 0 {Cp}
+Rpz 4 0 {Rp}
+
+***********************************
+* Rectifier
+***********************************
+
+D1 4 5 Dmod
+D2 0 5 Dmod
+D3 0 4 Dmod
+D4 5 4 Dmod
+
+.model Dmod D(
++ Is=1e-9
++ Rs=0.1
++ N=1.05
+)
+
+Cl 5 0 100u
+Rl 5 0 100k
+
+.tran 0.1m 500m
+
+.control
+run
+
+*Mechanical Vibration response 
+*plot abs(v(2))
+plot v(2)
+
+*Piezo-generated AC Voltage
+*plot abs(v(4))
+plot v(4)
+
+*Harvested DC Voltage
+*plot abs(v(5))
+plot v(5)
+
+*displacement between damper and spring
+*plot abs(v(2,3))
+.endc
+
+.end 
