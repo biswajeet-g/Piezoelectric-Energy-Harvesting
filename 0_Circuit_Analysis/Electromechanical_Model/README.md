@@ -138,7 +138,7 @@ The storage capacitor accumulates electrical energy and supplies the load resist
 
 ## 6. Simulation Results and Interpretation
 
-🔗 [**Electromechanical Spice Code**](../stndckt/elemechockt1.spice)
+🔗 [**Electromechanical Spice Code**](../stndckt/elemechockt1.sp)
 
 ### Mechanical Response – V(2)
 
