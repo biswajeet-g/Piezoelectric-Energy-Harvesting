@@ -123,6 +123,10 @@ This allows observation of the complete charge generation and discharge process.
 
 # Simulation Results
 
+[**Piezoelectric Capacitor Circuit**](../stndckt/piezockt1.sp)
+
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/f7df44f0-9299-4166-9675-82736142135b" />
+
 ## Sensor Output Voltage (V(1))
 
 The simulated waveform represents the voltage generated across the piezoelectric sensor terminals.
