@@ -8,6 +8,8 @@ response under mechanically induced charge generation.
 
 # Equivalent Electrical Model
 
+<img width="683" height="384" alt="IMG_20260610_122326944" src="https://github.com/user-attachments/assets/7e076c8a-4dd7-4e1b-a957-ea4f975f0b21" />
+
 The piezoelectric sensor is represented by an equivalent circuit consisting of:
 
 - Piezoelectric current source (Ipiezo)
@@ -16,6 +18,9 @@ The piezoelectric sensor is represented by an equivalent circuit consisting of:
 - Oscilloscope input resistance (Rscope)
 
 The equivalent circuit is shown below:
+
+<img width="683" height="384" alt="ChatGPT Image Jun 22, 2026, 03_53_11 PM" src="https://github.com/user-attachments/assets/ae689a6d-e123-446a-b84a-19e9bd4feb3c" />
+
 
 # Model Parameters
 
