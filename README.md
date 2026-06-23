@@ -7,6 +7,13 @@
 
 ## INTRODUCTION
 - Human Body heat can be harvesting using the principle of thermoelectric power geenrators, based on the **Seeback effect** of materials
+  - **Seeback Effect** : One can generate elecrical energy using the difference between human body and ambient temperature.
+ 
+- Ways to convert mechanical energy to electrical energy
+    1. Electromagnetic
+    2. Electrostatic
+    3. Piezoelectric
+       
 #### What is Piezoelectricity?
 - The appearance of an electrical potential across the sides of a crystal when you subject it to the mechanical stress.
 
