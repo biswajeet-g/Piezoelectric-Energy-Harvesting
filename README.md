@@ -1,14 +1,14 @@
 # Piezoelectric Energy Harvesting behaviour of PVDF Polymer incorporation with BCZT Ceramic Filler
 
-- ##### NAME : Biswajeet Ganthia
-- ##### INSTITUTION : Silicon University, Bhubaneswar
-- ##### PLACE OF INTERNSHIP : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
-- ##### GUIDE : Dr. Md Shahid Anwar, Dr. Subhashree
+-  **NAME** : Biswajeet Ganthia
+-  **INSTITUTION** : Silicon University, Bhubaneswar
+-  **PLACE OF INTERNSHIP** : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
+-  **GUIDE** : Dr. Md Shahid Anwar, Dr. Subhashree
 
 ## INTRODUCTION
+- Human Body heat can be harvesting using the principle of thermoelectric power geenrators, based on the **Seeback effect** of materials
 #### What is Piezoelectricity?
 - The appearance of an electrical potential across the sides of a crystal when you subject it to the mechanical stress.
-
 
 #### Crystal :
 - Atom or molecules arranged in a very orderly manner based on endless repetition.
