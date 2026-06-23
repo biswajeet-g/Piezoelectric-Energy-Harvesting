@@ -191,4 +191,5 @@ Purpose:
  - [**micromachines**] Yi Yang, Zhiyuan Chen, Qin Kuai, Junrui Liang, Jingjing Liu and Xiaoyang Zeng
 [Circuit Techniques for High Efficiency Piezoelectric Energy Harvesting](https://github.com/user-attachments/files/28987310/micromachines-13-01044.pdf)
 
+ - [**technologynetworks**] Jacob Strain, PhD [X-Ray Diffraction (XRD)](https://www.technologynetworks.com/analysis/articles/x-ray-diffraction-xrd-xrd-principle-xrd-analysis-and-applications-404260)
 
