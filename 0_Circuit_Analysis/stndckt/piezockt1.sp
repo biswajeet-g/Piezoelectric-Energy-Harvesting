@@ -32,7 +32,7 @@ Rp 1 0 1.55Meg
 *Measurement Instrument
 ***********************************
 
-Rscope 1 0 1Meg
+Rscope 1 2 1Meg
 
 ***********************************
 *Analysis
@@ -45,6 +45,7 @@ run
 
 *Voltage across terminal 
 plot v(1)
+plot v(2)
 
 .endc
 .end
