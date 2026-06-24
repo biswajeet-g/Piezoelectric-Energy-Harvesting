@@ -67,6 +67,9 @@
 
 ### Calculation of Efficiency at 100KV
 
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/b437b158-eb2c-439b-abeb-56138089eade" />
+
+
 | Sample | Pmax (uc/cm^2) | Prec (uc/cm^2) | Coercive Field (kV/cm) | Wtotal | Wrec | efficiency (n) |
 |---|--|--|--|--|--|--|
 | 0.5% | 0.014 | 0.008 | 40.034 |
