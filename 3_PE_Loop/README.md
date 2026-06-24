@@ -63,3 +63,18 @@
 
 - ##### Discharging Condition
 <img width="683" height="384" alt="Screenshot (1140)" src="https://github.com/user-attachments/assets/16b371dd-f18e-4162-b8b4-faccbe568c80" />
+
+
+### Calculation of Efficiency at 100KV
+
+| Sample | Pmax (uc/cm^2) | Prec (uc/cm^2) | Coercive Field (kV/cm) | Wtotal | Wrec | efficiency (n) |
+|---|--|--|--|--|--|--|
+| 0.5% | 0.014 | 0.008 | 40.034 |
+| 1% | 0.017 | 0.009 | 49.774 |
+| 2% | 0.016 | 0.007 | 34.792 |
+| 2.5% | 0.019 | 0.009 | 41.132 |
+
+<img width="683" height="384" alt="image" src="https://github.com/user-attachments/assets/7e83b519-a335-45f7-9f60-b058bb090f22" />
+
+
+
