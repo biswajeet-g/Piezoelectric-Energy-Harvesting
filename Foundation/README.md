@@ -67,10 +67,10 @@
 - The rise of dielectric constant is due to the increase in the no. of ceramic particles (BCZT).
   ##### Factors affecting Dielectric Constant.
     - Electroactive phase fraction of PVDF.
-    - Presence of piezoelectric cermaic BCZT particles.
-    - Interfacial interaction between PVDF and BCZT parcticles.
+    - Presence of piezoelectric ceramic BCZT particles.
+    - Interfacial interaction between PVDF and BCZT particles.
 
-- A sudden increase in dielectric constants indicates a significant increase in interfacial polarization in the compostie.
+- A sudden increase in dielectric constants indicates a significant increase in interfacial polarization in the composite.
   ##### Interfacial Polarization (Maxwell–Wagner–Sillars (MWS) Polarization)
   - The accumulation of charges at the interface of two materials having different electrical properties.
   ### Dielectric Measurement
