@@ -79,8 +79,7 @@
   ### Dielectric Loss
   - How much electrical energy is wasted as heat.
     - C=εA/d
-    - C=εrεoA/d
-    - or
+    - C=εrεoA/d or
     - εr=Cd/εoA
   ##### Factors affecting Dieletric loss
     - Interfacial polarization
