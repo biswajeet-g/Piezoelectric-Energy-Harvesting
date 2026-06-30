@@ -4,7 +4,7 @@
 
 | Materials | Usage |
 |-----------|---------|
-| PVDF Polymer | nanocomposite sheet for experiment |
+| PVDF Polymer | Nanocomposite sheet for experiment |
 | Electrodes | Silver/Gold plates for conduction |
 | Measurement System | MARINE India Ferroelectric Tester |
 | Sample Holder | Contains Silicon Oil and induces high voltage for experiment |
@@ -25,7 +25,7 @@
 
 ### For data analysis
   #### Steps for setting up files
-    - To open excelsheet for Pe Loop readings:
+    - To open excelsheet for PE Loop readings:
       - Open -> Computer -> 2.5%(e.g.) -> 450 KV
     - A dialog box appreared 
       - Chose the file type that best describes
