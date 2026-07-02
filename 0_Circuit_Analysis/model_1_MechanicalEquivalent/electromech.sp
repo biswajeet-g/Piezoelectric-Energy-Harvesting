@@ -1,5 +1,5 @@
 *----------------------------------------------------
-*MODEL 1; Mechanical Equivalent
+*MODEL 1: Mechanical Equivalent
 *----------------------------------------------------
 
 .title model_1_Mechanical_Equivalent
