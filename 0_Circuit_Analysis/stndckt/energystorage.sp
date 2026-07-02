@@ -8,12 +8,12 @@
 * PARAMETERS
 ****************************************************
 
-.param Force = 1
-.param Freq  = 2000
-.param Cp    = 100n
-.param Rp    = 10Meg
-.param RL    = 100k
-.param Cstore= 470u
+.param Force = 5
+.param Freq = 2000
+.param Cp = 100n
+.param Rp = 10Meg
+.param RL = 100k
+.param Cstore= 220u
 
 ****************************************************
 * PIEZOELECTRIC SOURCE
@@ -28,8 +28,7 @@ Rpz 2 0 {Rp}
 * FULL BRIDGE RECTIFIER
 ****************************************************
 
-.model Dpiezo D(IS=1e-12 N=1.5 RS=1)
-
+.model Dpiezo D(Is=1e-12 N=1.5 Rs=1)
 D1 2 3 Dpiezo
 D2 0 3 Dpiezo
 D3 4 2 Dpiezo
@@ -51,16 +50,16 @@ Rload 3 4 {RL}
 * ANALYSIS
 ****************************************************
 
-.tran 10u 2m
+.tran 2u 10m
 
 ****************************************************
 * MEASUREMENTS
 ****************************************************
 
-.meas tran VMAX MAX V(3)-V(4)
-.meas tran VAVG AVG V(3)-V(4)
-.meas tran VRMS RMS V(3)-V(4)
-.meas tran PLOAD AVG PAR('((V(3)-V(4))^2)/100k')
+.meas tran VMAX MAX V(3,4)
+.meas tran VAVG AVG V(3,4)
+.meas tran VRMS RMS V(3,4)
+.meas tran PLOAD AVG PAR('(V(3,4)^2)/100k')
 
 ****************************************************
 * CONTROL
@@ -73,13 +72,8 @@ echo MODEL 6 : ENERGY STORAGE
 echo ===============================
 
 plot V(2) title "Piezoelectric AC Voltage"
-
 plot V(3,4) title "Stored Capacitor Voltage"
-
 plot V(3)
-
 plot V(4)
-
 .endc
-
 .end
