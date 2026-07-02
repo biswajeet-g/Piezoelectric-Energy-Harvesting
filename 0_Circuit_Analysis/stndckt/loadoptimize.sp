@@ -17,13 +17,13 @@
 * Change ONLY this value for different simulations
 .param RL=100k
 
-.param Fres=2950
+.param Freq=2000
 
 ************************************************
 * MECHANICAL EXCITATION
 ************************************************
 
-Vin 1 0 SIN(0 1 {Fres})
+Vin 1 0 SIN(0 1 {Freq})
 
 ************************************************
 * MOTIONAL BRANCH
@@ -45,7 +45,7 @@ Cp1 4 0 {Cp}
 * VARIABLE LOAD
 ************************************************
 
-RLOAD 4 0 {RL}
+RLoad 4 0 {RL}
 
 ************************************************
 * INITIAL CONDITIONS
@@ -63,21 +63,21 @@ RLOAD 4 0 {RL}
 * TRANSIENT ANALYSIS
 ************************************************
 
-.tran 10u 100m
+.tran 10u 5m
 
 ************************************************
 * MEASUREMENTS
 ************************************************
 
-.meas tran VMAX MAX V(4)
+.meas tran VMAX MAX V(4) FROM=1m TO=5m
 
-.meas tran VMIN MIN V(4)
+.meas tran VMIN MIN V(4) FROM=1m TO=5m
 
-.meas tran VRMS RMS V(4)
+.meas tran VRMS RMS V(4) FROM=1m TO=5m
 
-.meas tran IRMS RMS I(RLOAD)
+.meas tran IRMS RMS V(4)/{RL} FROM=1m TO=5m
 
-.meas tran PAVG AVG PAR('V(4)*I(RLOAD)')
+.meas tran PAVG AVG PAR('(V(4)^2)/{RL}') FROM=1m TO=5m
 
 ************************************************
 .control
@@ -88,14 +88,14 @@ echo --------------------------------------
 echo LOAD OPTIMIZATION ANALYSIS
 echo --------------------------------------
 
-print vmax
-print vrms
-print irms
-print pavg
+print VMAX
+print VRMS
+print IRMS
+print PAVG
 
-plot V(4) title "Output Voltage"
+plot V(4) title "Output Voltage" xlimit 0 5m
 
-plot I(RLOAD) title "Load Current"
+plot V(4)/100k title "Load Current" xlimit 0 2m
 
 .endc
 
