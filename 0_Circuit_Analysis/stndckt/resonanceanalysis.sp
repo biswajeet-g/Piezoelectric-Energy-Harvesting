@@ -51,11 +51,11 @@ RL1 4 0 {RL}
 * Measurements
 *******************************
 
-.meas ac VMAX MAX vm(4)
+.meas ac VMAX MAX V(4)
 
 .meas ac IMAX MAX i(Vin)
 
-.meas ac PMAX MAX PAR('vm(4)^2/RL')
+.meas ac PMAX MAX PAR('V(4)^2/RL')
 
 *******************************
 .control
@@ -63,16 +63,16 @@ RL1 4 0 {RL}
 run
 
 set units=degrees
+*Magnitude Response
+plot db(V(4))
+*Phase Response
+plot phase(V(4))
+*Output Voltage
+plot V(4)
+*Input Current
+plot -i(Vin)
 
-plot db(v(4))
-
-plot phase(v(4))
-
-plot vm(4)
-
-plot i(Vin)
-
-plot par('vm(4)^2/100k')
+*plot par('V(4)^2/100k')
 
 .endc
 
