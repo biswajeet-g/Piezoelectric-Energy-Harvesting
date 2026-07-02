@@ -1,8 +1,8 @@
 *-----------------------------------------------------
-*MODEL 2: Resonance and Frequency Response Analysis
+*MODEL 2: Electromechanical Piezoelectrical Response
 *-----------------------------------------------------
 
-.title MODEL_2_Response_analysis
+.title MODEL_2_Electromechanical_Piezoelectrical_Response
 
 *****************************
 *Parameters
