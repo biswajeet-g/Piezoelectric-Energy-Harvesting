@@ -1,8 +1,8 @@
 *----------------------------------------------------
-*MODEL 1; Basic Electromechanical Piezoelectric Model
+*MODEL 1; Mechanical Equivalent
 *----------------------------------------------------
 
-.title model_1_electromechanical_basic_piezoelectric_harvester
+.title model_1_Mechanical_Equivalent
 
 *PARAMETERS
 
