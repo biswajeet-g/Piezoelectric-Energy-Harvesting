@@ -21,7 +21,7 @@
 
 .param LSSHI     = 10m           ; SSHI Inductor
 .param RLOAD     = 100k          ; Electrical Load
-.param CSTORE    = 47u           ; Storage Capacitor
+.param CSTORE    = 22u           ; Storage Capacitor
 
 .param TON       = 20u           ; Switch ON duration
 .param PERIOD    = 500u          ; 2 kHz switching period
@@ -53,7 +53,15 @@ SSSHI 3 0 4 0 SSHI_SW
 
 * Switch Model
 
+<<<<<<< HEAD
 .model SSHI_SW SW + RON=0.05 + ROFF=1G + VT=2 + VH=0.2
+=======
+.model SSHI_SW SW
++ RON=1
++ ROFF=1G
++ VT=2
++ VH=0.2
+>>>>>>> da56d68 (updated SSHI)
 
 * Switching Pulse Generator
 <<<<<<< HEAD
