@@ -56,7 +56,31 @@ SSSHI 3 0 4 0 SSHI_SW
 .model SSHI_SW SW + RON=0.05 + ROFF=1G + VT=2 + VH=0.2
 
 * Switching Pulse Generator
+<<<<<<< HEAD
 VCTRL 4 0 PULSE(+0 +5 +240u +100n +100n +20u +500u)
+=======
+*-----------------------------------------------
+
+VCTRL 4 0 PULSE(
++0
++5
++240u
++100n
++100n
++20u
++500u
+)
+
+**************************************************
+* END OF SECTION 3
+**************************************************
+.tran 1u 5m
+
+************************************************
+* SECTION 4
+* FULL-WAVE BRIDGE RECTIFIER
+************************************************
+>>>>>>> a02c962 (updated)
 
 * Schottky diode model
 .model DSH D( +IS=1e-9 +N=1.05 +RS=0.15 +CJO=20p +TT=10n)
