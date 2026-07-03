@@ -126,6 +126,38 @@ VCTRL 4 0 PULSE(
 * END OF SECTION 3
 **************************************************
 
+************************************************
+* SECTION 4
+* FULL-WAVE BRIDGE RECTIFIER
+************************************************
+
+* Schottky diode model
+.model DSH D(
++ IS=1e-9
++ N=1.05
++ RS=0.15
++ CJO=20p
++ TT=10n
+)
+
+* Bridge Rectifier
+
+D1 2 5 DSH
+D2 0 5 DSH
+D3 6 2 DSH
+D4 6 0 DSH
+
+************************************************
+* DC OUTPUT TERMINALS
+************************************************
+
+* Positive DC node = 5
+* Negative DC node = 6
+
+************************************************
+* END OF SECTION 4
+************************************************
+.tran 1u 5m
 .control
 run 
 plot V(2)
