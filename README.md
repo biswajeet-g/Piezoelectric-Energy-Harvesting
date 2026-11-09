@@ -3,7 +3,7 @@
 -  **NAME** : Biswajeet Ganthia
 -  **INSTITUTION** : Silicon University, Bhubaneswar
 -  **PLACE OF INTERNSHIP** : CSIR Institute of Minerals and Material Technology (IMMT), Bhubaneswar
--  **GUIDE** : Dr. Md Shahid Anwar, Dr. Subhashree
+-  **GUIDE** : Dr. Md Shahid Anwar, Dr. Subhashree Sahoo
 
 ## INTRODUCTION
 - Human Body heat can be harvesting using the principle of thermoelectric power geenrators, based on the **Seeback effect** of materials
